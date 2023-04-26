@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/IVillanueva770/Codefica.git/static/css/main.e5b2f417.css",
+    "main.js": "/IVillanueva770/Codefica.git/static/js/main.7626f957.js",
+    "static/media/back-home-cut.jpg": "/IVillanueva770/Codefica.git/static/media/back-home-cut.806c1caa7362569ef562.jpg",
+    "static/media/shapelined-_JBKdviweXI-unsplash.jpg": "/IVillanueva770/Codefica.git/static/media/shapelined-_JBKdviweXI-unsplash.5d9686b18991716a6aa9.jpg",
+    "static/media/Blanco1.png": "/IVillanueva770/Codefica.git/static/media/Blanco1.58bb66d1d1595a70a401.png",
+    "static/media/joey.jpg": "/IVillanueva770/Codefica.git/static/media/joey.ab710eb61ca42b535659.jpg",
+    "static/media/logo-forani-dorado.png": "/IVillanueva770/Codefica.git/static/media/logo-forani-dorado.b31fd6991b78365c2b8c.png",
+    "index.html": "/IVillanueva770/Codefica.git/index.html",
+    "main.e5b2f417.css.map": "/IVillanueva770/Codefica.git/static/css/main.e5b2f417.css.map",
+    "main.7626f957.js.map": "/IVillanueva770/Codefica.git/static/js/main.7626f957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b2f417.css",
+    "static/js/main.7626f957.js"
+  ]
+}
